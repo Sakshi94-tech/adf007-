@@ -1,0 +1,13 @@
+{
+	"name": "ds_rest_parquet",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_rest_parquet",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "RestResource",
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
