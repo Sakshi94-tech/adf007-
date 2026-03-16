@@ -26,6 +26,12 @@
 		"AzureDataLakeStorage5_accountKey": {
 			"value": ""
 		},
+		"AzureDataLakeStorage6_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage7_accountKey": {
+			"value": ""
+		},
 		"LS_ADLS_PARQUET_accountKey": {
 			"value": ""
 		},
@@ -84,6 +90,12 @@
 			"value": "https://adlsdevfinanceus0604.dfs.core.windows.net/"
 		},
 		"AzureDataLakeStorage5_properties_typeProperties_url": {
+			"value": "https://adlsdevfinanceus0604.dfs.core.windows.net/"
+		},
+		"AzureDataLakeStorage6_properties_typeProperties_url": {
+			"value": "https://adlsdevfinanceus0604.dfs.core.windows.net/"
+		},
+		"AzureDataLakeStorage7_properties_typeProperties_url": {
 			"value": "https://adlsdevfinanceus0604.dfs.core.windows.net/"
 		},
 		"LS_ADLS_PARQUET_properties_typeProperties_url": {
